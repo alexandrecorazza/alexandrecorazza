@@ -22,7 +22,7 @@
 <img align="right" width="400px" src="./my-personal-repository.svg" />
 
 - :mortar_board: Student of computer science at Universidade Estadual Paulista(UNESP)
-- :computer: Web developer
+- :computer: Software developer
 - :briefcase: Currently working at IBM
 
 ## Skills - in progress

@@ -27,12 +27,15 @@
 
 ## Skills - in progress
 
-<!--- <img width="40px" height="40px" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=Java&logoColor=ED4A31"> JAVA-->
-<img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=e06b06"/>
-<img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/NodeJS-FFFFFF?style=for-the-badge&logo=Node.js&logoColor=8ac03c"/>
-<img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=React&logoColor=60dbfc"/>
-<img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=TypeScript&logoColor=0685d2"/>
-<img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=Docker&logoColor=0e97e5"/>
+- Java
+- Nodejs
+- Reactjs
+- Typescript
+- Docker
+<!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/NodeJS-FFFFFF?style=for-the-badge&logo=Node.js&logoColor=8ac03c"/> -->
+<!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=React&logoColor=60dbfc"/> -->
+<!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=TypeScript&logoColor=0685d2"/> -->
+<!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=Docker&logoColor=0e97e5"/> -->
 
 </br></br>
 <p>

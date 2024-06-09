@@ -21,17 +21,16 @@
 ## Hi there! I'm Alexandre :wave:
 <img align="right" width="400px" src="./my-personal-repository.svg" />
 
-- :mortar_board: Student of computer science at Universidade Estadual Paulista(UNESP)
-- :computer: Software developer
-- :briefcase: Currently working at IBM
+- :mortar_board: Graduated in Computer Science at Universidade Estadual Paulista (UNESP)
+- :computer: Software developer focused on web development
 
-## Skills - in progress
+## Skills
 
 - Java
-- Nodejs
-- Reactjs
-- Typescript
-- Docker
+- TypeScript
+- JavaScript
+- Nodejs / Nest.js
+- Reactjs / Next.js / Vue.js
 <!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/NodeJS-FFFFFF?style=for-the-badge&logo=Node.js&logoColor=8ac03c"/> -->
 <!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=React&logoColor=60dbfc"/> -->
 <!-- <img style="max-width:100%;width: 150px;" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=TypeScript&logoColor=0685d2"/> -->
